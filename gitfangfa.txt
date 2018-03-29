@@ -6,3 +6,4 @@ git push //上传文件
 
 
 //•第二步，使用命令git commit，完成。
+第一次修改 -> git add -> 第二次修改 -> git add -> git commit
