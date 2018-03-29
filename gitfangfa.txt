@@ -1,0 +1,8 @@
+git pull //下载文件
+git add 8//增加文件
+git commit -m "文件描述"
+git push //上传文件
+//•第一步，使用命令git add <file>，注意，可反复多次使用，添加多个文件；
+
+
+//•第二步，使用命令git commit，完成。
