@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018\3\28 星期三 22:11:17。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\hanshunguang.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_biao.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_biao.cpp, GeneratedFiles\Release\moc_biao.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_filereadwrite.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_filereadwrite.cpp, GeneratedFiles\Release\moc_filereadwrite.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_hanshunguang.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_hanshunguang.cpp, GeneratedFiles\Release\moc_hanshunguang.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mythread.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_mythread.cpp, GeneratedFiles\Release\moc_mythread.cpp.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\x64\Debug\\hanshunguang.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5WinExtrasd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\x64\Debug\hanshunguang.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\x64\Debug\hanshunguang.lib" /MACHINE:X64 x64\Debug\biao.obj
+         x64\Debug\filereadwrite.obj
+         x64\Debug\moc_biao.obj
+         x64\Debug\moc_filereadwrite.obj
+         x64\Debug\moc_hanshunguang.obj
+         x64\Debug\moc_mythread.obj
+         x64\Debug\qrc_hanshunguang.obj
+         x64\Debug\hanshunguang.obj
+         x64\Debug\main.obj
+         x64\Debug\mythread.obj
+         hanshunguang.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\x64\Debug\hanshunguang.exe
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\2018-3-22\7\hanshunguang\hanshunguang.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.66
