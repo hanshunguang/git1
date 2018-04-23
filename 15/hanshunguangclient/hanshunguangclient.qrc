@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/hanshunguang">
+        <file>tu/1.png</file>
+        <file>movie/fire.gif</file>
+        <file>animations/fire.gif</file>
+    </qresource>
+</RCC>
